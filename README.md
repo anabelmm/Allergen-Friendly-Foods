@@ -99,7 +99,7 @@ Preferred file formats for data submissions include: CSV, XML, Markdowns, and JS
 2.2 APPROPRIATE DATA VALUE
 Users normalizing data prior to submissions should refer to the Allergen Friendly Foods Data Dictionary for appropriate data values. A template for normalization of data is made available. 
 
-# Users and User Stories
+# Potential Users
 
 POTENTIAL USER COMMUNITY
 Users of the Allergen-Friendly Food repository will range from parents wanting to know which foods their children can eat safely (seeking data) to companies looking to promote their allergen friendly foods to an audience that needs them (data depositors). Information seekers wish to find fully free resources with no strings attached. Depositors want to provide information in an easy-to-read and search place. Potential users are described below:
@@ -145,7 +145,7 @@ Information provided includes:
     *Licensing / Copyright information
 
 
-USER STORY
+**USER STORY**
 **Information Seeker, General Public**
 Here, we highlight the user story of Rima Srivastav (she/her), an elementary school teacher seeking information to ensure her classroom party is safe and inclusive for all.
     Rima teaches second grade at a public school, and she wants to throw a party to celebrate the great work her students did on a recent project. Four of her students are deathly allergic to even trace amounts of peanuts and tree nuts. One student can’t eat soy and another student has celiac and can’t eat gluten. She wants to be able to find fun, tasty snacks that are free from all the allergens and restrictions that affect her students.
