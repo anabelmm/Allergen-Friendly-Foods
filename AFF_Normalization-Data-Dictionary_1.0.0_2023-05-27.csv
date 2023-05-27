@@ -1,0 +1,37 @@
+Data Dictionary,,,,
+,,,,
+Variable,Variable Name,Variable Type,Allowed Values,Definition
+Food Category/Type,food-category,string,Alphanumeric string,Overarching category or food type of the food. e.g. “snack” or “breakfast”
+Official Food Name,food-name,string,Alphanumeric string,"Official name of the food product, as written by the manufacturer"
+Brand,brand,string,Alphanumeric string,Brand / name of the product manufacturer
+Top 9 FDA Allergen-free,top-9,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free from the Top 9 Allergens as defined by the FDA"
+Gluten-Free,gluten-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free from gluten (wheat, rye, and barley)"
+"Milk /
+Dairy-Free",dairy-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free animal milk products"
+Soy-Free,soy-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free soybeans, including soy lecithin"
+Peanut-Free,peanut-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free from peanuts"
+Treenut-Free,treenut-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free from tree nuts"
+Egg-Free,egg-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free from eggs"
+Sesame-free,sesame-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free from sesame seed"
+Crustacean Shellfish-free,shellfish-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free from shellfish, including shrimp"
+Fish-free,fish-free,numeric,0 - 1,"0 if not applicable or 
+1 if product is certified free"
+Organic,organic,numeric,0 - 1,free of GMOs and pesticides
+Special dietary restriction,special,array of numeric values,0 - 5,"0. None noted
+1. Kosher: Foods prepared in accordance with Jewish laws
+2. Halal: Permissible by Islamic law
+3. Vegan: does not contain any food derived from animals
+4. Vegetarian-only: does not contain meat, but is not vegan. 
+5. Adheres to all special diets noted above"
+Full ingredients list,ingredients-full,string,string,"When available, copy/paste the full list of ingredients here. N/A if not available"
+Product website link,source,string,string,"A link to the product as seen on the manufacturer site, where none is available, a link to a retailer site providing additional information about obtaining the product."
+Last updated date,date-modified,date,yyyy-mm-dd,Date the product information was last modified
