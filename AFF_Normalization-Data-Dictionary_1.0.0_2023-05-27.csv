@@ -1,5 +1,3 @@
-Data Dictionary,,,,
-,,,,
 Variable,Variable Name,Variable Type,Allowed Values,Definition
 Food Category/Type,food-category,string,Alphanumeric string,Overarching category or food type of the food. e.g. “snack” or “breakfast”
 Official Food Name,food-name,string,Alphanumeric string,"Official name of the food product, as written by the manufacturer"
