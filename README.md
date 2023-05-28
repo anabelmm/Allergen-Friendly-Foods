@@ -1,4 +1,6 @@
-# Allergen-Friendly-Foods Repository Collection Policy
+# Allergen-Friendly-Foods Repository 
+
+# Collection Policy
 
 The Allergen-Friendly Food Repository is happy to take submissions to support the goals of our users. The more data we have, the safer you can eat!  If you would like to submit a data source or dataset to this repository, please work through the steps listed below. 
 
