@@ -59,7 +59,7 @@ In some instances, the AgMES profile needed to be supplemented with the more gen
 To further investigate AgMES, you can follow this link: https://www.fao.org/3/ae909e/ae909e05.htm#P461_23843
 
 -CONTROLLED VOCABULARIES-
-Several fields require controlled vocabularies, which are listed in the metadata schema. These choices are all based on recommendations from AgMES, and provide greater standardization and searchability. This reasoning is also responsible for any indicated bounds on form, also listed in the schema.
+Several fields require controlled vocabularies, which are listed in the metadata schema. These choices are all based on recommendations from AgMES, and provide greater standardization and searchability. This reasoning is also responsible for any indicated bounds on form, also listed in the schema. Depositors without the expertise to encode need not worry about doing so as our curators will review any submissions and transform the data accordingly.
      
 
 -ENCODING-
