@@ -1,0 +1,14 @@
+Variable,Variable Name,Variable Type,Controlled Vocabulary or Other Restriction,Optionality,Definition,Source,Example
+Title,title,String,No,Always,A name given to the resource.,Dublin Core,Safe Snack Guide Peanut and Tree Nut Free Edition
+Title Supplement,title-supplement,String,No,As Needed,Secondary information related to the title (i.e. a translation).,AgMES,"Many free of the Top 8, sesame, mustard and gluten"
+Creator - Personal,creator-personal,"String (Surname, Forename Initial(s))",No,When Available,Person responsible for creating the intellectual content of the resource. There may be more than one.,AgMES,
+Creator ,creator,String,No,Always,"Person, organization or agency responsible for creating the intellectual content of the resource.",AgMES,SnackSafely.com
+Publisher Name,publisher-name,String,No,Always,"A publisher is the individual, group, or organization named in the document as being responsible for that document’s publication, distribution, issuing, or release.",AgMES,SnackSafely.com
+Publisher Place,publisher-place,String,No,When Available,"The place of publication of an item is the city, town, or other locality associated with the name of the publisher entered in the Publisher field.",AgMES,
+Created Date,date,Date [YYYY-MM-DD],No,Always,"A point or period of time associated with an event in the lifecycle of the resource. Typically, Date will be associated with the creation or availability of the resource.",Dublin Core,5/4/2023
+Submitted Date,date-submitted,Date [YYYY-MM-DD],No,Always,Date of submission of the resource to this repository.,Dublin Core,5/28/2023
+Description Notes,description-notes,String,No,As Needed,"A brief statement, annotation, comment, or elucidation concerning any aspect of the resource. Information in a general note is information about the item that the cataloguer has deemed necessary for the identification of the item.",AgMES,All items in dataset are peanut- and tree nut-free. Dataset is updated monthly.
+Language,language,String,ISO 639.2,Always,A language of the intellectual content of the resource.,AgMES,eng
+Spatial Coverage,coverage-spatial,String,The Getty Thesaurus of Geographic Names,When available,Spatial characteristics of the intellectual content of the resource (i.e. geographical bounds of the dataset).,AgMES,United States
+Rights,rights,String,No,Always,Information about rights held in and over the resource,AgMES,"Copyright � 2023, SnackSafely.com. All Rights Reserved."
+Identifier,identifier,String,Internal unique identifier scheme,Always,"Identifiers (Standard numbers) are numbers taken from the item. They can be ISSN, ISBN, Patent numbers and other numbers not assigned by the cataloging agency.",AgMES,https://snacksafely.com/peanut-treenut-free/
